@@ -13,6 +13,8 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1804&extens
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1810&extension=m3u8
 #EXTINF:-1 tvg-id="",Sky Action
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1822&extension=m3u8
+#EXTINF:-1 tvg-id="",Sky Sports NFL
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1880&extension=m3u8
 #EXTINF:-1 tvg-id="",Sky Sports Arena
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1881&extension=m3u8
 #EXTINF:-1 tvg-id="",Sky Sports Cricket
