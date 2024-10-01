@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",Sky Select
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1798&extension=m3u8
+#EXTINF:-1 tvg-id="",Sky Sports Golf
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1885&extension=m3u8
