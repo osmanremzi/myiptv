@@ -7,31 +7,5 @@ https://dplus.gammacdn.workers.dev/videos/101.m3u8
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 tvg-id="",Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF:-1 tvg-id="",Unsure
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1821&extension=m3u8
 #EXTINF:-1 tvg-id="",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="",Sky Select
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1798&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Science Fiction
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1801&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Hits
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1804&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Family
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1810&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Action
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1822&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Sports Racing
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1879&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Sports NFL
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1880&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Sports Arena
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1881&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Sports Cricket
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1882&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Sports F1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1883&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Sports Football
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1884&extension=m3u8
-#EXTINF:-1 tvg-id="",Sky Sports Golf
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1885&extension=m3u8
