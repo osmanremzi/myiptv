@@ -3,6 +3,8 @@
 https://dl.dropboxusercontent.com/s/agaznexpwc3lklm/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-id="",Investigation Discovery (2)
 https://dplus.gammacdn.workers.dev/videos/101.m3u8
+#EXTINF:-1 tvg-id="",Discovery Science
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 tvg-id="",Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-id="",Unsure
