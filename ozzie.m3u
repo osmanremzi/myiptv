@@ -53,6 +53,8 @@ https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="",YES Network
 http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="",ATV Turkish
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-id="",FOX Turkish
 http://ott.server-iptv.live/5501/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="",Show TV Turkish
