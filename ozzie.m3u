@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",Speak No Evil (MOVIE)
+#EXTINF:-1 tvg-id="" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/a3a0b938317dd5c677fb559d88f7f245.jpg",Speak No Evil (MOVIE)
 http://line.protv.site/movie/proprome/949D87/1480419.mp4
-#EXTIMG:https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/a3a0b938317dd5c677fb559d88f7f245.jpg
 #EXTINF:-1 tvg-id="",The Curse of The Necklace (MOVIE)
 http://protv.fun/movie/74b77293b8/434aeb4a9d47/1661930.mp4
 #EXTINF:-1 tvg-id="",Beast (MOVIE)
