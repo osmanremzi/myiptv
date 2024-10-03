@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Speak No Evil" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/a3a0b938317dd5c677fb559d88f7f245.jpg" group-title="Movies", Speak No Evil
+#EXTINF:-1 tvg-id="" tvg-name="Speak No Evil (2024)" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/a3a0b938317dd5c677fb559d88f7f245.jpg" group-title="Movies", Speak No Evil (2024)
 http://line.protv.site/movie/proprome/949D87/1480419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Curse of The Necklace" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/6a3914b815a90b241835f658f1cdb207.jpg" group-title="Movies", The Curse of The Necklace
+#EXTINF:-1 tvg-id="" tvg-name="My Penguin Friend (2024)" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/a87d20704750e52538c253a1b3eb39b4.jpg" group-title="Movies", My Penguin Friend (2024)
+http://line.protv.site/movie/proprome/949D87/1480418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Curse of The Necklace (2024)" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/6a3914b815a90b241835f658f1cdb207.jpg" group-title="Movies", The Curse of The Necklace (2024)
 http://protv.fun/movie/74b77293b8/434aeb4a9d47/1661930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beast" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/aaccc21814e70dcfcd09b48319e2084e.jpg" group-title="Movies", Beast
-http://protv.fun/movie/22315a84c2/61c5e909e59e/1007700.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Transformers Rise of the Beasts" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/9397944df73c2f4f70b0ec0f64822844.jpg" group-title="Movies", Transformers Rise of the Beasts
+#EXTINF:-1 tvg-id="" tvg-name="Transformers Rise of the Beasts (2023)" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/9397944df73c2f4f70b0ec0f64822844.jpg" group-title="Movies", Transformers Rise of the Beasts (2023)
 http://line.protv.site/movie/proprome/949D87/886267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beast (2022)" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/aaccc21814e70dcfcd09b48319e2084e.jpg" group-title="Movies", Beast (2022)
+http://protv.fun/movie/22315a84c2/61c5e909e59e/1007700.mkv
 #EXTINF:-1 tvg-id="",Investigation Discovery (1)
 https://dl.dropboxusercontent.com/s/agaznexpwc3lklm/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-id="",Investigation Discovery (2)
