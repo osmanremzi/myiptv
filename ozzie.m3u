@@ -53,3 +53,19 @@ https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="",YES Network
 http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="",FOX Turkish
+http://ott.server-iptv.live/5501/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="",Show TV Turkish
+http://ott.server-iptv.live/5503/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="",Kanal D Turkish
+http://ott.server-iptv.live/5504/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="",Kanal 7 Turkish
+http://ott.server-iptv.live/5505/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="",TRT Cocuk Turkish
+http://ott.server-iptv.live/5506/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="",TV8 Turkish
+http://ott.server-iptv.live/5508/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="",Star TV Turkish
+http://ott.server-iptv.live/5510/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="",TRT Turk Turkish
+http://ott.server-iptv.live/5511/video.m3u8?token=M4f082ab4c
