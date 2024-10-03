@@ -71,3 +71,5 @@ http://ott.server-iptv.live/5508/video.m3u8?token=M4f082ab4c
 http://ott.server-iptv.live/5510/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="",TRT Turk Turkish
 http://ott.server-iptv.live/5511/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="",beIn Box Office 1 Turkish
+http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/6744/index.m3u8
