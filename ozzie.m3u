@@ -27,6 +27,8 @@ http://line.protv.site/movie/proprome/949D87/1433015.mkv
 https://dl.dropboxusercontent.com/s/agaznexpwc3lklm/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-id="",Investigation Discovery (2)
 https://dplus.gammacdn.workers.dev/videos/101.m3u8
+#EXTINF:-1 tvg-id="",beIn Sports HD
+http://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="",ESPN 2
 http://tvnow.best/api/stream/spencerd62946/228959/livetv.epg/espn2.us.m3u8
 #EXTINF:-1 tvg-id="",Discovery HD
