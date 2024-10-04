@@ -23,55 +23,57 @@ http://protv.fun/movie/22315a84c2/61c5e909e59e/1007700.mkv
 http://line.protv.site/movie/proprome/949D87/1478412.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nasty (2024)" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/748db03efa6b3d43d3d1900bea599aa9.jpg" group-title="Movies", Nasty (2024)
 http://line.protv.site/movie/proprome/949D87/1433015.mkv
-#EXTINF:-1 tvg-id="",Investigation Discovery (1)
+#EXTINF:-1 tvg-id="" tvg-name="Slingshot (2024)" tvg-logo="https://protvmovies.com/uploads/cache/poster_thumb_web/uploads/jpg/5b01040aace66293cb03e66f4114e64c.jpg" group-title="Movies", Slingshot (2024)
+http://line.protv.site/movie/proprome/949D87/1461684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery 2" tvg-logo="" group-title="English Channels", Investigation Discovery
 https://dl.dropboxusercontent.com/s/agaznexpwc3lklm/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="",Investigation Discovery (2)
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="English Channels", Investigation Discovery 2
 https://dplus.gammacdn.workers.dev/videos/101.m3u8
-#EXTINF:-1 tvg-id="",beIn Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="beInSport HD" tvg-logo="" group-title="English Channels", beInSports HD
 http://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="English Channels", ESPN 2
 http://tvnow.best/api/stream/spencerd62946/228959/livetv.epg/espn2.us.m3u8
-#EXTINF:-1 tvg-id="",Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="English Channels", Discovery HD
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
-#EXTINF:-1 tvg-id="",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="English Channels", Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
-#EXTINF:-1 tvg-id="",TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="English Channels", TLC
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
-#EXTINF:-1 tvg-id="",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="English Channels", Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF:-1 tvg-id="",Love Nature 4K
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4L" tvg-logo="" group-title="English Channels", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="",Channel 7 (720p)
+#EXTINF:-1 tvg-id="" tvg-name="Chanel 7 AU Sydney" tvg-logo="" group-title="English Channels", Channel 7 AU Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
-#EXTINF:-1 tvg-id="",Channel 9 Adelaide (720p)
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 Adelaide" tvg-logo="" group-title="English Channels", Channel 9 Adelaide
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="",Channel 9 Perth (720p)
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 Perth" tvg-logo="" group-title="English Channels", Channel 9 Perth
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="",CBS News (Bay Area)
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Bay Area" tvg-logo="" group-title="English Channels", CBS News Bay Area
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-#EXTINF:-1 tvg-id="",BBC News
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="" group-title="English Channels", BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 tvg-id="",YES Network
+#EXTINF:-1 tvg-id="" tvg-name="YES Network" tvg-logo="" group-title="English Channels", YES Network
 http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="",ATV Turkish
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Turkish Channels", ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
-#EXTINF:-1 tvg-id="",FOX Turkish
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="Turkish Channels", FOX
 http://ott.server-iptv.live/5501/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="",Show TV Turkish
+#EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="" group-title="Turkish Channels", Show TV
 http://ott.server-iptv.live/5503/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="",Kanal D Turkish
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-logo="" group-title="Turkish Channels", Kanal D
 http://ott.server-iptv.live/5504/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="",Kanal 7 Turkish
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="" group-title="Turkish Channels", Kanal 7
 http://ott.server-iptv.live/5505/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="",TRT Cocuk Turkish
+#EXTINF:-1 tvg-id="" tvg-name="TRT Cocuk" tvg-logo="" group-title="Turkish Channels", TRT Cocuk
 http://ott.server-iptv.live/5506/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="",TV8 Turkish
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="" group-title="Turkish Channels", TV8
 http://ott.server-iptv.live/5508/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="",Star TV Turkish
+#EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="" group-title="Turkish Channels", Star TV
 http://ott.server-iptv.live/5510/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="",TRT Turk Turkish
+#EXTINF:-1 tvg-id="" tvg-name="TRT Turk" tvg-logo="" group-title="Turkish Channels", TRT Turk
 http://ott.server-iptv.live/5511/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 tvg-id="",beIn Box Office 1 Turkish
+#EXTINF:-1 tvg-id="" tvg-name="beIn Box Office 1" tvg-logo="" group-title="Turkish Channels", beIn Box Office 1
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/6744/index.m3u8
-#EXTINF:-1 tvg-id="",beIn Box Office 2 Turkish
+#EXTINF:-1 tvg-id="" tvg-name="beIn Box Office 2" tvg-logo="" group-title="Turkish Channels", beIn Box Office 2
 http://epvzzr4d.ottclub.xyz/iptv/5FRTASC825NL7B/6745/index.m3u8
