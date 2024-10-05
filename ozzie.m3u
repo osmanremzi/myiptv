@@ -61,6 +61,8 @@ http://line.protv.site/movie/proprome/949D87/1479550.mkv
 https://dl.dropboxusercontent.com/s/agaznexpwc3lklm/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="English Channels", Investigation Discovery 2
 https://dplus.gammacdn.workers.dev/videos/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Footy" tvg-logo="" group-title="English Channels", Fox Footy
+http://vo01.mohdtv.com:8880/voby1526/47137893/61083
 #EXTINF:-1 tvg-id="" tvg-name="beInSport HD" tvg-logo="" group-title="English Channels", beInSports HD
 http://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="English Channels", ESPN 2
