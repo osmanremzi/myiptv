@@ -79,6 +79,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9 Adelaide" tvg-logo="" group-title="English Channels", Channel 9 Adelaide
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Optus Sports" tvg-logo="" group-title="English Channels", Optus Sports
+http://mytv-extra.com/live/t12mgxyb335/9832948789/37401.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9 Perth" tvg-logo="" group-title="English Channels", Channel 9 Perth
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News Bay Area" tvg-logo="" group-title="English Channels", CBS News Bay Area
